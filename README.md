@@ -90,8 +90,3 @@ The following experiments are performed:
 The performance is evaluated using trajectory tracking error and waypoint accuracy.
 
 ---
-
-## Author
-
-Robotics Control Challenge  
-xArm Lite 6 trajectory tracking project
